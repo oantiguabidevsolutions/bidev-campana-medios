@@ -3,7 +3,7 @@
   "id": "D01_AM",
   "fecha": "2026-10-19",
   "hora": "09:00",
-  "activo": true,
+  "activo": false,
   "formato": "imagen",
   "titulo": "Que cada visita abra la próxima conversación.",
   "instagram": {
@@ -15,7 +15,8 @@
   "linkedin": {
    "image_url": "https://raw.githubusercontent.com/oantiguabidevsolutions/bidev-campana-medios/main/media/D01_AM.jpg",
    "commentary": "Que cada visita abra la próxima conversación.\n\nRegistra lo acordado y deja un próximo paso claro para retomar al cliente.\n\nCambia «cliente interesado» por «solicitó el catálogo; enviarlo y confirmar recepción». Las notas y próximos pasos de TF-INSIGHT ayudan a retomar ese contexto.\n\nSolicita una demostración de TF-INSIGHT con un caso de tu operación. Escríbenos DEMO por mensaje directo.\n\n#BIDEVSolutions"
-  }
+  },
+  "nota": "Publicada como prueba el 2026-10-17"
  },
  {
   "id": "D01_PM",
