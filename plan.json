@@ -1,7 +1,7 @@
 [
  {
   "id": "D01_AM",
-  "fecha": "2026-10-18",
+  "fecha": "2026-10-19",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -19,7 +19,7 @@
  },
  {
   "id": "D01_PM",
-  "fecha": "2026-10-18",
+  "fecha": "2026-10-19",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -37,7 +37,7 @@
  },
  {
   "id": "D02_AM",
-  "fecha": "2026-10-19",
+  "fecha": "2026-10-20",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -55,7 +55,7 @@
  },
  {
   "id": "D02_PM",
-  "fecha": "2026-10-19",
+  "fecha": "2026-10-20",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -74,7 +74,7 @@
  },
  {
   "id": "D03_AM",
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-21",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -93,7 +93,7 @@
  },
  {
   "id": "D03_PM",
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-21",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -111,7 +111,7 @@
  },
  {
   "id": "D04_AM",
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-22",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -129,7 +129,7 @@
  },
  {
   "id": "D04_PM",
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-22",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -147,7 +147,7 @@
  },
  {
   "id": "D05_AM",
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-23",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -166,7 +166,7 @@
  },
  {
   "id": "D05_PM",
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-23",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -185,7 +185,7 @@
  },
  {
   "id": "D06_AM",
-  "fecha": "2026-10-23",
+  "fecha": "2026-10-26",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -203,7 +203,7 @@
  },
  {
   "id": "D06_PM",
-  "fecha": "2026-10-23",
+  "fecha": "2026-10-26",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -221,7 +221,7 @@
  },
  {
   "id": "D07_AM",
-  "fecha": "2026-10-24",
+  "fecha": "2026-10-27",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -239,7 +239,7 @@
  },
  {
   "id": "D07_PM",
-  "fecha": "2026-10-24",
+  "fecha": "2026-10-27",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -258,7 +258,7 @@
  },
  {
   "id": "D08_AM",
-  "fecha": "2026-10-25",
+  "fecha": "2026-10-28",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -277,7 +277,7 @@
  },
  {
   "id": "D08_PM",
-  "fecha": "2026-10-25",
+  "fecha": "2026-10-28",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -295,7 +295,7 @@
  },
  {
   "id": "D09_AM",
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -313,7 +313,7 @@
  },
  {
   "id": "D09_PM",
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -331,7 +331,7 @@
  },
  {
   "id": "D10_AM",
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-30",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -350,7 +350,7 @@
  },
  {
   "id": "D10_PM",
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-30",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -369,7 +369,7 @@
  },
  {
   "id": "D11_AM",
-  "fecha": "2026-10-28",
+  "fecha": "2026-11-02",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -387,7 +387,7 @@
  },
  {
   "id": "D11_PM",
-  "fecha": "2026-10-28",
+  "fecha": "2026-11-02",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -405,7 +405,7 @@
  },
  {
   "id": "D12_AM",
-  "fecha": "2026-10-29",
+  "fecha": "2026-11-03",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -423,7 +423,7 @@
  },
  {
   "id": "D12_PM",
-  "fecha": "2026-10-29",
+  "fecha": "2026-11-03",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -442,7 +442,7 @@
  },
  {
   "id": "D13_AM",
-  "fecha": "2026-10-30",
+  "fecha": "2026-11-04",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -461,7 +461,7 @@
  },
  {
   "id": "D13_PM",
-  "fecha": "2026-10-30",
+  "fecha": "2026-11-04",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -479,7 +479,7 @@
  },
  {
   "id": "D14_AM",
-  "fecha": "2026-10-31",
+  "fecha": "2026-11-05",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -497,7 +497,7 @@
  },
  {
   "id": "D14_PM",
-  "fecha": "2026-10-31",
+  "fecha": "2026-11-05",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -515,7 +515,7 @@
  },
  {
   "id": "D15_AM",
-  "fecha": "2026-11-01",
+  "fecha": "2026-11-06",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -534,7 +534,7 @@
  },
  {
   "id": "D15_PM",
-  "fecha": "2026-11-01",
+  "fecha": "2026-11-06",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -553,7 +553,7 @@
  },
  {
   "id": "D16_AM",
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-09",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -571,7 +571,7 @@
  },
  {
   "id": "D16_PM",
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-09",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -589,7 +589,7 @@
  },
  {
   "id": "D17_AM",
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-10",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -607,7 +607,7 @@
  },
  {
   "id": "D17_PM",
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-10",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -626,7 +626,7 @@
  },
  {
   "id": "D18_AM",
-  "fecha": "2026-11-04",
+  "fecha": "2026-11-11",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -645,7 +645,7 @@
  },
  {
   "id": "D18_PM",
-  "fecha": "2026-11-04",
+  "fecha": "2026-11-11",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -663,7 +663,7 @@
  },
  {
   "id": "D19_AM",
-  "fecha": "2026-11-05",
+  "fecha": "2026-11-12",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -681,7 +681,7 @@
  },
  {
   "id": "D19_PM",
-  "fecha": "2026-11-05",
+  "fecha": "2026-11-12",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -699,7 +699,7 @@
  },
  {
   "id": "D20_AM",
-  "fecha": "2026-11-06",
+  "fecha": "2026-11-13",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -718,7 +718,7 @@
  },
  {
   "id": "D20_PM",
-  "fecha": "2026-11-06",
+  "fecha": "2026-11-13",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -737,7 +737,7 @@
  },
  {
   "id": "D21_AM",
-  "fecha": "2026-11-07",
+  "fecha": "2026-11-16",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -755,7 +755,7 @@
  },
  {
   "id": "D21_PM",
-  "fecha": "2026-11-07",
+  "fecha": "2026-11-16",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -773,7 +773,7 @@
  },
  {
   "id": "D22_AM",
-  "fecha": "2026-11-08",
+  "fecha": "2026-11-17",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -791,7 +791,7 @@
  },
  {
   "id": "D22_PM",
-  "fecha": "2026-11-08",
+  "fecha": "2026-11-17",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -810,7 +810,7 @@
  },
  {
   "id": "D23_AM",
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-18",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -829,7 +829,7 @@
  },
  {
   "id": "D23_PM",
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-18",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -847,7 +847,7 @@
  },
  {
   "id": "D24_AM",
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-19",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -865,7 +865,7 @@
  },
  {
   "id": "D24_PM",
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-19",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -883,7 +883,7 @@
  },
  {
   "id": "D25_AM",
-  "fecha": "2026-11-11",
+  "fecha": "2026-11-20",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -902,7 +902,7 @@
  },
  {
   "id": "D25_PM",
-  "fecha": "2026-11-11",
+  "fecha": "2026-11-20",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -921,7 +921,7 @@
  },
  {
   "id": "D26_AM",
-  "fecha": "2026-11-12",
+  "fecha": "2026-11-23",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -939,7 +939,7 @@
  },
  {
   "id": "D26_PM",
-  "fecha": "2026-11-12",
+  "fecha": "2026-11-23",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -957,7 +957,7 @@
  },
  {
   "id": "D27_AM",
-  "fecha": "2026-11-13",
+  "fecha": "2026-11-24",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -975,7 +975,7 @@
  },
  {
   "id": "D27_PM",
-  "fecha": "2026-11-13",
+  "fecha": "2026-11-24",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
@@ -994,7 +994,7 @@
  },
  {
   "id": "D28_AM",
-  "fecha": "2026-11-14",
+  "fecha": "2026-11-25",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -1013,7 +1013,7 @@
  },
  {
   "id": "D28_PM",
-  "fecha": "2026-11-14",
+  "fecha": "2026-11-25",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -1031,7 +1031,7 @@
  },
  {
   "id": "D29_AM",
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-26",
   "hora": "09:00",
   "activo": true,
   "formato": "imagen",
@@ -1049,7 +1049,7 @@
  },
  {
   "id": "D29_PM",
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-26",
   "hora": "13:00",
   "activo": true,
   "formato": "imagen",
@@ -1067,7 +1067,7 @@
  },
  {
   "id": "D30_AM",
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-27",
   "hora": "09:00",
   "activo": true,
   "formato": "video",
@@ -1086,7 +1086,7 @@
  },
  {
   "id": "D30_PM",
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-27",
   "hora": "13:00",
   "activo": true,
   "formato": "video",
