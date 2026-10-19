@@ -22,7 +22,8 @@
   "id": "D01_PM",
   "fecha": "2026-10-19",
   "hora": "13:00",
-  "activo": true,
+  "activo": false,
+  "nota": "Publicada manualmente el 2026-10-19 a las 12:22 por pedido de Oliver",
   "formato": "imagen",
   "titulo": "Vendes más. ¿Ganas más?",
   "instagram": {
